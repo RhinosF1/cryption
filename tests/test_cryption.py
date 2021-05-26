@@ -1,4 +1,4 @@
-from epqsource.cryption import decrypthash, encryptstring, make_keys
+from cryption import decrypthash, encryptstring, make_keys
 
 
 def test_encrypt_decrypt_sequence_using_make_keys():
