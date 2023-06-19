@@ -4,8 +4,6 @@ from setuptools import find_packages, setup
 with open('README.md') as readme_file:
     readme = readme_file.read()
 
-# with open('CHANGELOG.md') as history_file:
-    # history = history_file.read()
 
 with open('requirements.txt') as requirements_file:
     requirements = list(requirements_file.readlines())
