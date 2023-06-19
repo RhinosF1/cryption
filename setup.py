@@ -19,7 +19,7 @@ email = 'Pycryptor10@gmail.com'
 
 setup(
     name='cryption',
-    version='0.3.0',
+    version='0.4.0',
     url='https://github.com/Pycryptor10/cryption',
     description='Wrapper for Pycrptodome to encrypt/decrypt text',
     keywords='',
