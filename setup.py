@@ -21,7 +21,7 @@ setup(
     url='https://github.com/Pycryptor10/cryption',
     description='Wrapper for Pycrptodome to encrypt/decrypt text',
     keywords='',
-    long_description=readme,  # + '\n\n' + history,
+    long_description=readme,
     long_description_content_type='text/markdown',  # This is important!
     author=username,
     author_email=email,
